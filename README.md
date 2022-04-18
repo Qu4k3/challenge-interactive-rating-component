@@ -1,0 +1,1 @@
+# challenge-interactive-rating-component
