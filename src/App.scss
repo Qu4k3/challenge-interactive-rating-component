@@ -5,6 +5,22 @@
   border-radius: 25px;
   padding: 25px;
   max-width: 300px;
+  margin: 20px;
+
+  &.thank-you {
+    text-align: center;
+  }
+
+  .submitted-result {
+    display: inline-block;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    padding: 6px 15px;
+    font-size: .9rem;
+    background-color: variables.$color-dark-blue-2;
+    border-radius: 20px;
+    color: variables.$color-active;
+  }
 
   .title {
     color: variables.$color-white;
