@@ -59,7 +59,7 @@
         background-color: variables.$color-active;
         color: variables.$color-white;
       }
-      &:active {
+      &.active {
         background-color: variables.$color-light-grey;
         color: variables.$color-white;
       }
