@@ -8,7 +8,6 @@ function App() {
   const [active, setActive] = useState(null);
 
   const handleClick = (value) => {
-    console.log(value);
     setRating(value);
     setActive(value);
   }
@@ -16,11 +15,12 @@ function App() {
   const maxRating = 5;
   let ratingElements = [];
   
-  for (let i = 0; i < maxRating; i++) {
+  for (let i = 1; i <= maxRating; i++) {
     ratingElements.push(
       <li
         key={i}
-        onClick={event => handleClick(event.target.attributes[0].value)}
+        value={i}
+        onClick={event => handleClick(event.target.value)}
         className={active === i ? "active" : ""}>
           {i}
       </li>
