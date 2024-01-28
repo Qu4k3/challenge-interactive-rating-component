@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/challenge-interactive-rating-component/static/css/main.3292ba88.css",
-    "main.js": "/challenge-interactive-rating-component/static/js/main.20e8dc6f.js",
+    "main.css": "/challenge-interactive-rating-component/static/css/main.3b35de5c.css",
+    "main.js": "/challenge-interactive-rating-component/static/js/main.8403aa3f.js",
     "index.html": "/challenge-interactive-rating-component/index.html",
-    "main.3292ba88.css.map": "/challenge-interactive-rating-component/static/css/main.3292ba88.css.map",
-    "main.20e8dc6f.js.map": "/challenge-interactive-rating-component/static/js/main.20e8dc6f.js.map"
+    "main.3b35de5c.css.map": "/challenge-interactive-rating-component/static/css/main.3b35de5c.css.map",
+    "main.8403aa3f.js.map": "/challenge-interactive-rating-component/static/js/main.8403aa3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3292ba88.css",
-    "static/js/main.20e8dc6f.js"
+    "static/css/main.3b35de5c.css",
+    "static/js/main.8403aa3f.js"
   ]
 }
